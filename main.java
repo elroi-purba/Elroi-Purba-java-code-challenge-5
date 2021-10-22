@@ -2,7 +2,7 @@ class Main {
     public static void main(String[] args) {
       Heroes hero = new Heroes();
   
-      hero.setProfile("Elroi Purba", 35, 175);
+      hero.setProfile("Elroi Purba", 20, 175);
       hero.profile();
       
   // challenge:
